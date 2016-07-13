@@ -11,6 +11,9 @@
     <additionalInfo xmi:id="_LA6iNi8EEea-L99zQ8kQIg" key="LogMessages" value="false"/>
     <additionalInfo xmi:id="_LA6iNy8EEea-L99zQ8kQIg" key="WsdlSchemaValidation" value="false"/>
     <additionalInfo xmi:id="_LA6iOC8EEea-L99zQ8kQIg" key="useBusinessCorrelation" value="false"/>
+    <additionalInfo xmi:id="_qwnEcEjqEeafJLz4imc2Eg" key="groupId" value="SalToNetSuite"/>
+    <additionalInfo xmi:id="_qwnEcUjqEeafJLz4imc2Eg" key="artifactId" value="SfToNsAccount"/>
+    <additionalInfo xmi:id="_qwnEckjqEeafJLz4imc2Eg" key="version" value="0.1.0"/>
   </Services:ServiceConnection>
   <Services:ServicePort xmi:id="_jX5a8CJdEeaTL8G21dZLHA" name="NotificationPort" id="_nOywMB3MEeaa7Iq95FI23w" serviceOperation="_jX5a8SJdEeaTL8G21dZLHA"/>
   <Services:ServiceOperation xmi:id="_jX5a8SJdEeaTL8G21dZLHA" label="notifications-SfToNsAccount" name="notifications" id="_nOywMR3MEeaa7Iq95FI23w" referenceJobId="_vfwIgBtVEeaTYdT7fp8CzA" documentation="Process a number of notifications."/>
