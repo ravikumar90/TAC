@@ -129,7 +129,6 @@
       <relatedItems xmi:id="_jy5rmkjqEeafJLz4imc2Eg" id="SFTPinJava" version="Latest" type="routine"/>
       <relatedItems xmi:id="_jy5rm0jqEeafJLz4imc2Eg" id="test" version="Latest" type="routine"/>
     </ItemsRelations>
-    <deletedFolders>services/SalToNetSuite</deletedFolders>
     <migrationTask xmi:id="_3bQu8EjmEeafJLz4imc2Eg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_3bQu8UjmEeafJLz4imc2Eg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_3bQu8kjmEeafJLz4imc2Eg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
