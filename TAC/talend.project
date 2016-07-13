@@ -456,4 +456,6 @@
     <migrationTask xmi:id="_4rzK50jmEeafJLz4imc2Eg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_1az6IkjmEeafJLz4imc2Eg" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_WoLAcEjzEeaco_FMzcshnA" login="lior@magento.com" firstName="Lior" lastName="Pinelis" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_WoLAcUjzEeaco_FMzcshnA" login="abystritskiy@magento.com" firstName="Alex" lastName="Bystritskiy" type="DI" additionnalData="{}"/>
 </xmi:XMI>
