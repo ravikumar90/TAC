@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="wellsInboundRequest" prompt="wellsInboundRequest?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsInboundProcessedFiles" prompt="wellsInboundProcessedFiles?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsFargoHost" prompt="wellsFargoHost?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsFargoPort" prompt="wellsFargoPort?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter comment="" name="wellsFargoUser" prompt="wellsFargoUser?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsFargoKey" prompt="wellsFargoKey?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsFargoInboundRemoteDir" prompt="wellsFargoInboundRemoteDir?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsOutboundRequest" prompt="wellsOutboundRequest?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsFargoOutboundRemoteDir" prompt="wellsFargoOutboundRemoteDir?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="billPaymentQueryParam" prompt="billPaymentQueryParam?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="netsuiteUrl" prompt="netsuiteUrl?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsOutboundProcessedFiles" prompt="wellsOutboundProcessedFiles?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsInboundUnprocessedFiles" prompt="wellsInboundUnprocessedFiles?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsOutboundUnprocessedFiles" prompt="wellsOutboundUnprocessedFiles?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsFargoOutboundZIPRemoteDir" prompt="wellsFargoOutboundZIPRemoteDir?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsOutboundEncode" prompt="wellsOutboundEncode?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="welsFargotalendErrorLog" prompt="welsFargotalendErrorLog?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsFargoInboundVendorBillRemoteDir" prompt="wellsFargoInboundVendorBillRemoteDir?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="sendTo" prompt="sendTo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="sendFrom" prompt="sendFrom?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="XMLFilePath" prompt="XMLFilePath?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="JobName" prompt="JobName?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="DB_User" prompt="DB_User?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="DB_PWD" prompt="DB_PWD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="DB_Name" prompt="DB_Name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="DB_Port" prompt="DB_Port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="emailPWD" prompt="emailPWD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="smtpHost" prompt="smtpHost?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="smtpPort" prompt="smtpPort?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="wellsTemp" prompt="wellsTemp?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="logFolder" prompt="logFolder?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="ipUrl" prompt="ipUrl?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="environment" prompt="environment?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
